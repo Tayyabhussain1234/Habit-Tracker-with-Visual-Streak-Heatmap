@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "Frontend habit tracker with a custom GitHub-style streak heatmap and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+/**
+ * Global Stylesheet
+ * 
+ * Imports Tailwind CSS engine and sets base styles for the habit tracker application.
+ */
+
+@import "tailwindcss";
